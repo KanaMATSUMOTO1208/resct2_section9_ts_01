@@ -1,2 +1,2 @@
-# resct2_section9_ts_01
+# react2_section9_typescript
 Created with CodeSandbox
